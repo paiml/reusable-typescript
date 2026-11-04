@@ -1,0 +1,16 @@
+{
+  "name": "ts7-c3-functions-classes-modules-examples",
+  "version": "1.0.0",
+  "private": true,
+  "description": "The examples from Functions, Classes and Modules (TypeScript 7 for Beginners)",
+  "type": "module",
+  "engines": {
+    "node": ">=22.18.0"
+  },
+  "scripts": {
+    "test": "node --test 'test/*.test.ts'"
+  },
+  "devDependencies": {
+    "typescript": "7.0.2"
+  }
+}

@@ -1,0 +1,5 @@
+node_modules/
+# What the examples write while you follow along.
+dist/
+# Temporary folders the check programs make, and remove, while they run.
+.check-*/
